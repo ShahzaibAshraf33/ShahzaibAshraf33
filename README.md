@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=200&section=header&text=Shahzaib%20Ashraf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20-%20MERN%20%26%20PERN%20Stack&descSize=18&descAlignY=55" width="100%"/>
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#2c5364"/>
+      <stop offset="100%" stop-color="#0f2027"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <path d="M0,170 C150,140 300,190 450,165 C600,140 750,190 900,165 C1050,140 1150,175 1200,160 L1200,200 L0,200 Z" fill="#000000" opacity="0.25"/>
+  <text x="600" y="95" font-family="Verdana, Arial, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">Shahzaib Ashraf</text>
+  <text x="600" y="135" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#58a6ff" text-anchor="middle">Full Stack Developer — MERN &amp; PERN Stack</text>
+</svg>
 
 <a href="https://linkedin.com/in/shahzaib-ashraf-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ShahzaibAshraf33" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>

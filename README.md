@@ -1,124 +1,156 @@
 <div align="center">
 
-# Hey there, I'm Shahzaib Ashraf 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=220&section=header&text=Shahzaib%20Ashraf&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20PERN%20Stack&descSize=20&descAlignY=58" width="100%"/>
 
-### Full Stack Developer | MERN & PERN Stack | Building Scalable Web Apps
+<a href="https://linkedin.com/in/shahzaib-ashraf-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ShahzaibAshraf33" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://portfolio-shahzaib-ashraf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:shahzaibashraf99887@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaib-asharf-6502a4334)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahzaibAshraf33)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahzaibashraf99887@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Lahore,_Pakistan-grey?style=for-the-badge)](https://github.com/ShahzaibAshraf33)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+PERN);Building+scalable+web+apps+with+Node.js+%26+React;JWT+Auth+%7C+REST+APIs+%7C+Real-Time+Systems;Currently+exploring+Docker+%2B+AWS+%2B+CI%2FCD" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Developer** with 1+ year of experience building end-to-end web applications using the **MERN** and **PERN** stacks. I love turning ideas into real products — from system design to production deployment.
+```javascript
+const shahzaib = {
+    location: "Lahore, Pakistan",
+    role: "Full Stack Developer",
+    stack: ["MERN", "PERN"],
+    experience: "1+ year",
+    currentRole: "Web Development Intern @ Qalam Training Program",
+    education: "BS Software Engineering — Lahore Leads University (CGPA 3.13/4.00)",
+    currentlyExploring: ["Docker", "AWS (EC2/S3)", "CI/CD Pipelines"],
+    funFact: "I turn Figma designs into pixel-perfect, production-ready UI ⚡"
+};
+```
 
-- 🎓 **BSE Student** @ Lahore Leads University (CGPA: 3.13/4.00) — Batch 2023–2027
-- 💼 **Web Development Intern** @ Qalam Training Program
-- 🔧 Experienced in RESTful APIs, JWT Auth, real-time features (Socket.io), and responsive UI/UX
-- 🚀 Always learning, always building
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+**Front-End**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" />
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+<br/><br/>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+**Back-End**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
----
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws" />
+<img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🏠 Zameen360 — Real Estate Marketplace
-> A full-stack real estate platform for listings, rentals, and property sales.
+<div align="center">
 
-- 🔐 Role-based authentication (Buyers, Sellers, Agents, Admin) with JWT
-- 🗄️ Built with **React.js + TypeScript + Tailwind CSS + Node.js + PostgreSQL + Prisma**
-- 🧊 Integrated **Three.js** for interactive 3D property views with clickable hotspots
-- 📊 Admin dashboard with analytics, approval workflow, and inquiry management
+<table>
+<tr>
+<td width="50%">
 
----
+### 🏠 [Zameen360](https://github.com/ShahzaibAshraf33)
+Real estate marketplace with role-based auth, listings, rentals, admin dashboard, and an interactive **Three.js** 3D property viewer.
 
-### 📸 Instagram Clone — Social Media App
-> A fully functional social media application with real-time features.
+`React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `Three.js`
 
-- 💬 Real-time notifications via **Socket.io**
-- 📁 Media uploads with **Multer** and cloud storage via **Cloudinary**
-- ❤️ Post creation, likes, comments, follow system
-- 🔐 Secure auth with **JWT + Bcrypt**
-- **Stack:** React.js · Node.js · Express.js · MongoDB
+</td>
+<td width="50%">
 
----
+### 📸 [Instagram Clone](https://github.com/ShahzaibAshraf33)
+Full-stack social app — auth, posts, likes, comments, follow system, and real-time notifications via **Socket.io**.
 
-### 🎓 Student & Teacher Management System
-> A complete academic management platform with real-time updates.
+`React` `Node.js` `MongoDB` `Socket.io` `Cloudinary`
 
-- 👥 Manage students, teachers, and course records
-- 📧 Email alerts via **Nodemailer**, live updates via **Socket.io**
-- 🔒 Secure with **JWT auth** and **Bcrypt** hashing
-- **Stack:** React.js · Node.js · Express.js · MongoDB
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🎓 [Student & Teacher Management System](https://github.com/ShahzaibAshraf33)
+Full-stack system managing students, teachers & course records with JWT auth and real-time updates.
+
+`React` `Node.js` `MongoDB` `Nodemailer` `Socket.io`
+
+</td>
+<td width="50%">
+
+### 💼 Web Development Intern
+**Qalam Training Program** — Aug 2025–Present
+Built REST APIs, integrated JWT/Bcrypt auth, and managed MongoDB/PostgreSQL across 3+ full-stack projects.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShahzaibAshraf33&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShahzaibAshraf33&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAshraf33&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAshraf33&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibAshraf33&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibAshraf33&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibAshraf33&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Connect
+## 🐍 Contribution Snake
 
-I'm always open to collaborating on interesting projects or just having a tech chat!
+<div align="center">
+<img src="https://raw.githubusercontent.com/ShahzaibAshraf33/ShahzaibAshraf33/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<br/>
+<sub>⚙️ requires a one-time GitHub Action setup — see note below</sub>
+</div>
 
-📧 **Email:** shahzaibashraf99887@gmail.com
-📞 **Phone:** +92 332-4136922
-🌍 **Location:** Lahore, Pakistan
+<br/>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
----
+<a href="https://linkedin.com/in/shahzaib-ashraf-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-shahzaib-ashraf.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:shahzaibashraf99887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-*"Code is not just syntax — it's a solution to a real problem."*
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShahzaibAshraf33&color=blueviolet&style=flat-square)
+<i>Problem Solving • Team Collaboration • Quick Learner • Critical Thinking • Time Management</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>

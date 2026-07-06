@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+PERN);Building+scalable+web+apps+with+Node.js+%26+React;JWT+Auth+%7C+REST+APIs+%7C+Real-Time+Systems;Currently+exploring+Docker+%2B+AWS+%2B+CI%2FCD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN+%26+PERN); Building+scalable+web+apps+with+Node.js+%26+React;JWT+Auth+%7C+REST+APIs+%7C+Real-Time+Systems;Currently+exploring+Docker+%2B+AWS+%2B+CI%2FCD" alt="Typing SVG" />
 
 </div>
 

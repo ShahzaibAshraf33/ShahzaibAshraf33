@@ -1,6 +1,6 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0f2027"/>
@@ -13,11 +13,13 @@
       <stop offset="100%" stop-color="#1CB5E0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="200" fill="url(#bg)"/>
-  <path d="M0,170 C150,140 300,190 450,165 C600,140 750,190 900,165 C1050,140 1150,175 1200,160 L1200,200 L0,200 Z" fill="#000000" opacity="0.25"/>
-  <text x="600" y="95" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="bold" fill="url(#nameGradient)" text-anchor="middle">Shahzaib Ashraf</text>
-  <text x="600" y="135" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#58a6ff" text-anchor="middle">Full Stack Developer — MERN &amp; PERN Stack</text>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <path d="M0,225 C150,195 300,245 450,220 C600,195 750,245 900,220 C1050,195 1150,230 1200,215 L1200,260 L0,260 Z" fill="#000000" opacity="0.25"/>
+  <text x="600" y="125" font-family="Verdana, Arial, sans-serif" font-size="72" font-weight="bold" fill="url(#nameGradient)" text-anchor="middle">Shahzaib Ashraf</text>
+  <text x="600" y="170" font-family="Consolas, 'Courier New', monospace" font-size="22" font-weight="bold" fill="#58a6ff" text-anchor="middle">Full Stack Developer — MERN &amp; PERN Stack</text>
 </svg>
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/shahzaib-ashraf-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/ShahzaibAshraf33" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
